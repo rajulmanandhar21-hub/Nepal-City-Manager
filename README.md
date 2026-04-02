@@ -9,8 +9,7 @@ A Python-based application designed to help users understand the financial reali
 * **Data Visualization:** Generates bar charts comparing monthly surplus vs. deficit.
 
 ## 📊 Visual Insights
-![Financial Comparison Graph](link-to-your-image-here)
-*(Note: Upload your Bar Chart screenshot to the repo and put the link here!)*
+![Financial Comparison Graph](graph.png)
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.14
