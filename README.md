@@ -24,7 +24,6 @@ One of the core features is the `calculate_nepal_tax` function, which automates 
 * **Slab 2:** 10% for next 200k
 * **Slab 3:** 20% for amounts above 700k
 
-```python
 # snippet of the logic used
 if annual_salary <= 500000:
     tax = annual_salary * 0.01
@@ -37,4 +36,4 @@ The application features a guided CLI menu:
 1. View All Cities (Table View)
 2. Search for a City (SQL LIKE Search)
 3. Add New Economic Data
-...
+```python
